@@ -1,4 +1,4 @@
-#Google Drive PDF Document Downloader
+# Google Drive PDF Document Downloader
 
 Small JavaScript script designed to help you bypass read-only restrictions on PDF documents from Google Drive and allow you to download/save them.
  <br>
